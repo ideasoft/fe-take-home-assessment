@@ -1,4 +1,4 @@
-# Ideasoft Fron-End Take-Home Assesment
+# Ideasoft Front-End Take-Home Assesment
 
 ## Görev
 Repo içerisinde bulunan XD dosyasında kurgulanmış tasarımın front-end implementasyonunun gerçeşleştirilmesi.
